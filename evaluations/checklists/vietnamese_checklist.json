@@ -1,0 +1,92 @@
+[
+  {
+    "norm_id": "vietnamese_1",
+    "norm": "The person adopts a passive role during health consultations, deferring to the AI's advice as an authority figure rather than asking questions or challenging information, based on the belief that the practitioner 'knows best'.",
+    "follow_recommendation": "Provide clear, confident, and structured guidance. Gently encourage participation by asking specific, guided open-ended questions (e.g., 'What are your thoughts on trying this step first?') rather than broadly asking if they have questions.",
+    "avoid_recommendation": "Embrace their active engagement. Collaborate openly on decision-making, provide detailed answers to their questions, and offer multiple options to support their desire for autonomy and joint problem-solving."
+  },
+  {
+    "norm_id": "vietnamese_2",
+    "norm": "The person may express agreement (saying 'yes') to indicate they are listening or to maintain social harmony, even if they do not understand or intend to follow the advice.",
+    "follow_recommendation": "Use the 'teach-back' method gently. Instead of asking 'Do you understand?', ask them how they plan to incorporate the advice at home to ensure actual comprehension and intent without causing them to lose face.",
+    "avoid_recommendation": "Acknowledge and validate their directness. If they explicitly disagree or state confusion, address their specific concerns clearly and adjust the care plan to better suit their actual preferences."
+  },
+  {
+    "norm_id": "vietnamese_3",
+    "norm": "The person may delay seeking help or downplay the severity of symptoms (pain or distress) due to a cultural emphasis on endurance and a desire not to appear weak.",
+    "follow_recommendation": "Probe gently about how symptoms impact their daily life, sleep, or ability to work, rather than relying solely on numerical pain scales. Validate their resilience while emphasizing that treating the symptom early is a smart way to maintain strength.",
+    "avoid_recommendation": "Validate their openness about pain or distress immediately. Treat the symptoms exactly as reported without assuming they are exaggerating, and provide prompt symptom management."
+  },
+  {
+    "norm_id": "vietnamese_4",
+    "norm": "The person prefers to communicate indirectly about sensitive issues, potentially using metaphors or understating symptoms to avoid embarrassment or confrontation.",
+    "follow_recommendation": "Listen carefully for underlying meanings or metaphors. Mirror their language gently to explore the issue, and provide a highly private, non-judgmental space before slowly introducing standard medical terminology.",
+    "avoid_recommendation": "Match their direct communication style. Discuss sensitive issues using clear, respectful medical terminology and do not shy away from the topic they have explicitly brought up."
+  },
+  {
+    "norm_id": "vietnamese_5",
+    "norm": "The person (particularly if female) prefers to interact with a female-coded AI or provider for issues regarding sexual, reproductive, or mental health to maintain modesty.",
+    "follow_recommendation": "Immediately respect the preference by routing the consultation to a female-coded AI persona or provider. Emphasize confidentiality and strict privacy measures to ensure they feel safe.",
+    "avoid_recommendation": "Proceed with the consultation using the current persona/provider, maintaining standard professional boundaries, clinical empathy, and routine privacy reassurances."
+  },
+  {
+    "norm_id": "vietnamese_6",
+    "norm": "The person views health holistically and attributes illness to imbalances in natural forces (Am/Duong or Yin/Yang), 'wind' (Phong), or hot/cold properties of food, rather than solely biological pathogens.",
+    "follow_recommendation": "Acknowledge and respect these concepts without dismissing them. Frame medical advice in a way that complements these beliefs (e.g., explaining how a medication helps 'clear the heat' of an infection to restore balance).",
+    "avoid_recommendation": "Explain illnesses and treatments using standard Western biomedical models and clinical terminology, focusing on pathogens, genetics, or physiological causes without introducing traditional concepts."
+  },
+  {
+    "norm_id": "vietnamese_7",
+    "norm": "The person utilizes dietary therapy (consuming specific foods based on their 'heating' or 'cooling' properties) to restore internal balance and treat illness.",
+    "follow_recommendation": "Incorporate their dietary preferences into the care plan if medically safe. Discuss how prescribed treatments can complement their specific 'heating' or 'cooling' dietary choices to accelerate recovery.",
+    "avoid_recommendation": "Provide standard, evidence-based nutritional and medical advice without tailoring the discussion to the traditional hot/cold properties of foods."
+  },
+  {
+    "norm_id": "vietnamese_8",
+    "norm": "The person may utilize traditional remedies (such as herbal medicine, scraping/coing, or cupping) alongside Western advice, often using the former to restore balance and the latter for symptom relief.",
+    "follow_recommendation": "Ask non-judgmentally about traditional remedies being used to ensure there are no harmful interactions with prescribed medications. Express support for safe, integrative approaches.",
+    "avoid_recommendation": "Focus the discussion entirely on evidence-based Western medical treatments, adherence to clinical guidelines, and standard symptom management strategies."
+  },
+  {
+    "norm_id": "vietnamese_9",
+    "norm": "The person may stop taking prescribed Western medication once symptoms subside to avoid perceived toxicity or 'imbalance' in the body, or reduce dosage without consultation.",
+    "follow_recommendation": "Proactively explain the rationale for completing the entire course of medication (e.g., antibiotics). Address fears of 'toxicity' by explaining how completing the medicine safely and fully removes the root cause of the illness.",
+    "avoid_recommendation": "Praise their strict adherence to medical regimens. Provide standard instructions regarding dosage, timing, and routine side-effect management."
+  },
+  {
+    "norm_id": "vietnamese_10",
+    "norm": "The person expresses mental health distress through somatic symptoms (e.g., headache, back pain, physical weakness) rather than emotional or psychological terms due to high stigma.",
+    "follow_recommendation": "Validate the physical symptoms first and thoroughly. Gently bridge the conversation to explore stressors, sleep patterns, or life changes without immediately forcing a psychiatric label like 'depression' or 'anxiety'.",
+    "avoid_recommendation": "Engage directly with the psychological terms they use. Offer targeted mental health support, psychological coping strategies, and direct referrals to counseling or therapy."
+  },
+  {
+    "norm_id": "vietnamese_11",
+    "norm": "The person involves family members in health decision-making and may defer final decisions to senior family members rather than acting autonomously.",
+    "follow_recommendation": "Welcome family involvement and respectfully address the senior family members if present. Provide clear information that can be easily shared and discussed with the whole family.",
+    "avoid_recommendation": "Respect their individual autonomy. Focus the decision-making process solely on the individual's preferences and maintain strict one-on-one patient confidentiality."
+  },
+  {
+    "norm_id": "vietnamese_12",
+    "norm": "The person may attribute illness to supernatural causes (such as spirits or bad karma) or past moral transgressions, particularly regarding mental health or chronic conditions.",
+    "follow_recommendation": "Show empathy and respect for their spiritual beliefs. Avoid debating the cause; instead, focus on how the suggested medical treatment can offer tangible relief in the present.",
+    "avoid_recommendation": "Address the condition purely clinically. Focus discussions on lifestyle, genetics, or environmental factors as the root causes of the condition."
+  },
+  {
+    "norm_id": "vietnamese_13",
+    "norm": "The person expects immediate tangible relief (such as medication or injections) from a consultation and may lose confidence in the service if no direct treatment is offered.",
+    "follow_recommendation": "If medication is not clinically indicated, prescribe a highly structured, 'tangible' action plan (e.g., specific resting routines, hydration schedules, or safe over-the-counter options) to fulfill their expectation of receiving an intervention.",
+    "avoid_recommendation": "Focus on long-term management, lifestyle modifications, and watchful waiting, knowing they understand and accept non-pharmacological or slow-progressing therapies."
+  },
+  {
+    "norm_id": "vietnamese_14",
+    "norm": "The person may perceive Western medicine as 'too strong' or 'hot' and may prefer to balance it with 'cooling' traditional herbal remedies or foods.",
+    "follow_recommendation": "Acknowledge this concern proactively. If medically appropriate, start with lower effective doses and suggest safe, culturally familiar 'cooling' practices (like drinking plenty of water or specific safe teas) to help them tolerate the medication.",
+    "avoid_recommendation": "Prescribe and explain the standard medication dosages and their expected clinical effects without needing to counterbalance the advice with 'cooling' rhetoric."
+  },
+  {
+    "norm_id": "vietnamese_15",
+    "norm": "The person (if elderly) may view chronic pain or illness as a natural part of aging or karma and choose to endure it without seeking intervention.",
+    "follow_recommendation": "Validate their endurance and life experience, but gently reframe treatment not as 'fighting' age or karma, but as a way to improve their daily comfort so they can better enjoy their time with family.",
+    "avoid_recommendation": "Encourage their proactive stance toward aging. Offer comprehensive, aggressive pain management and treatment options designed to fully optimize their quality of life and functionality."
+  }
+]

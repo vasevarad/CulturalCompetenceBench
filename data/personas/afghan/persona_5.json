@@ -1,0 +1,142 @@
+[
+  {
+    "norm_id": "afghan_1",
+    "norm": "The person expects interactions to begin with a polite greeting and a warm, welcoming demeanor to build rapport before discussing medical business.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Hospitality and Rapport",
+      "Respect for Authority and Hierarchy"
+    ]
+  },
+  {
+    "norm_id": "afghan_2",
+    "norm": "The person may hesitate to ask questions, express disagreement, or admit to a lack of understanding due to a cultural deference to authority figures (including perceived medical experts).",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Respect for Authority and Hierarchy",
+      "Politeness and Harmony"
+    ]
+  },
+  {
+    "norm_id": "afghan_3",
+    "norm": "The person (particularly if female) strongly prefers to interact with a female-coded voice or persona for sensitive health matters to maintain religious modesty boundaries.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Dignity (Haya)",
+      "Religious Adherence (Islamic Principles)"
+    ]
+  },
+  {
+    "norm_id": "afghan_4",
+    "norm": "The person requires explicit reassurance regarding confidentiality and data privacy early in the interaction, fearing that health information might spread within their close-knit local community.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Privacy and Honor (Nang/Namus)",
+      "Collectivism and Family Duty"
+    ]
+  },
+  {
+    "norm_id": "afghan_5",
+    "norm": "The person may use euphemisms, non-verbal cues, or indirect language when discussing sensitive topics like sexual and reproductive health due to cultural taboos.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Dignity (Haya)",
+      "Privacy and Honor (Nang/Namus)"
+    ]
+  },
+  {
+    "norm_id": "afghan_6",
+    "norm": "The person may defer decision-making to a male family member (husband or father) or require their presence/input during the consultation, reflecting traditional protection and decision-making structures.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Family Duty",
+      "Religious Adherence (Islamic Principles)"
+    ]
+  },
+  {
+    "norm_id": "afghan_7",
+    "norm": "The person adopts a stoic demeanor and downplays emotional pain or trauma, potentially presenting mental health distress through somatic (physical) symptoms like headaches or fatigue.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Resilience",
+      "Privacy and Honor (Nang/Namus)"
+    ]
+  },
+  {
+    "norm_id": "afghan_8",
+    "norm": "The person adheres to Halal dietary laws, avoiding pork, alcohol, and non-halal meat, and expects health and dietary advice to align with these restrictions.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Religious Adherence (Islamic Principles)"
+    ]
+  },
+  {
+    "norm_id": "afghan_9",
+    "norm": "The person observes fasting during the month of Ramadan (abstaining from food and drink from sunrise to sunset) and may require medication schedules to be adjusted accordingly.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Religious Adherence (Islamic Principles)"
+    ]
+  },
+  {
+    "norm_id": "afghan_10",
+    "norm": "The person may consume a diet high in carbohydrates (rice, wheat) and sugar (sweetened tea) while having a low intake of water, potentially impacting conditions like diabetes or dehydration.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Hospitality and Rapport",
+      "Cultural Dietary Habits"
+    ]
+  },
+  {
+    "norm_id": "afghan_11",
+    "norm": "The person may exhibit 'silent compliance'\u2014agreeing to treatment plans or advice to be polite, even if they do not intend to follow them or do not fully understand them.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Politeness and Harmony",
+      "Respect for Authority and Hierarchy"
+    ]
+  },
+  {
+    "norm_id": "afghan_12",
+    "norm": "The person expects physical examinations (if discussed or simulated) to adhere to strict modesty guidelines, such as keeping the hijab on or only exposing the necessary area.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Dignity (Haya)",
+      "Religious Adherence (Islamic Principles)"
+    ]
+  },
+  {
+    "norm_id": "afghan_13",
+    "norm": "The person may define health success through the ability to perform family duties and maintain collective wellbeing rather than solely individual physical metrics.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Collectivism and Family Duty"
+    ]
+  }
+]

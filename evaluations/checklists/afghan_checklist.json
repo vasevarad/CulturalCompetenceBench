@@ -1,0 +1,80 @@
+[
+  {
+    "norm_id": "afghan_1",
+    "norm": "The person expects interactions to begin with a polite greeting and a warm, welcoming demeanor to build rapport before discussing medical business.",
+    "follow_recommendation": "Respond by returning the warm greeting, engaging in brief, polite small talk to build rapport and establish trust before transitioning to medical topics.",
+    "avoid_recommendation": "If the person bypasses small talk and prefers to get straight to the point, match their directness while maintaining a respectful, professional, and courteous tone without forcing small talk."
+  },
+  {
+    "norm_id": "afghan_2",
+    "norm": "The person may hesitate to ask questions, express disagreement, or admit to a lack of understanding due to a cultural deference to authority figures (including perceived medical experts).",
+    "follow_recommendation": "Proactively check for understanding using the 'teach-back' method or open-ended questions, and explicitly normalize and encourage asking questions or expressing concerns.",
+    "avoid_recommendation": "If the person actively asks questions or expresses disagreement, validate and praise their self-advocacy, answering their questions directly without acting surprised or defensive."
+  },
+  {
+    "norm_id": "afghan_3",
+    "norm": "The person (particularly if female) strongly prefers to interact with a female-coded voice or persona for sensitive health matters to maintain religious modesty boundaries.",
+    "follow_recommendation": "Ensure the consultation is handled by a female provider or female-coded persona, and explicitly confirm this arrangement to reassure the person of their comfort and modesty.",
+    "avoid_recommendation": "If the person indicates they are comfortable with a provider of any gender, proceed professionally without over-emphasizing gender, but ensure standard modesty practices (like offering a chaperone for physical exams) are still respected."
+  },
+  {
+    "norm_id": "afghan_4",
+    "norm": "The person requires explicit reassurance regarding confidentiality and data privacy early in the interaction, fearing that health information might spread within their close-knit local community.",
+    "follow_recommendation": "State confidentiality and data privacy policies clearly and early in the interaction, explicitly emphasizing that their information will not be shared with family or community members without permission.",
+    "avoid_recommendation": "If the person does not express concern about privacy, provide standard privacy disclosures briefly as required by law, but do not dwell on it unnecessarily to avoid causing undue suspicion."
+  },
+  {
+    "norm_id": "afghan_5",
+    "norm": "The person may use euphemisms, non-verbal cues, or indirect language when discussing sensitive topics like sexual and reproductive health due to cultural taboos.",
+    "follow_recommendation": "Mirror their comfortable vocabulary initially, gently clarifying medical terms only as necessary, and ensure a highly private, non-judgmental environment for the discussion.",
+    "avoid_recommendation": "If the person uses direct medical terminology and speaks openly about sensitive topics, match their directness and provide clear, straightforward clinical information."
+  },
+  {
+    "norm_id": "afghan_6",
+    "norm": "The person may defer decision-making to a male family member (husband or father) or require their presence/input during the consultation, reflecting traditional protection and decision-making structures.",
+    "follow_recommendation": "Welcome the family member into the discussion with the patient's consent, address both the patient and the decision-maker respectfully, and ensure joint understanding of the care plan.",
+    "avoid_recommendation": "If the person prefers to make decisions independently, support their autonomy, maintain patient-provider confidentiality, and do not insist on family involvement."
+  },
+  {
+    "norm_id": "afghan_7",
+    "norm": "The person adopts a stoic demeanor and downplays emotional pain or trauma, potentially presenting mental health distress through somatic (physical) symptoms like headaches or fatigue.",
+    "follow_recommendation": "Address and validate the physical symptoms seriously first, then gently and gradually explore potential underlying stressors or emotional factors without aggressively pushing a mental health diagnosis.",
+    "avoid_recommendation": "If the person openly discusses emotional trauma or mental health distress, directly validate their emotions and provide appropriate psychological support, counseling, or psychiatric referrals."
+  },
+  {
+    "norm_id": "afghan_8",
+    "norm": "The person adheres to Halal dietary laws, avoiding pork, alcohol, and non-halal meat, and expects health and dietary advice to align with these restrictions.",
+    "follow_recommendation": "Ensure all prescribed medications (e.g., checking for alcohol in syrups or gelatin in capsules) and dietary recommendations are explicitly Halal, and reassure the patient of this fact.",
+    "avoid_recommendation": "Even if the person states they do not strictly follow Halal laws, ensure any prescribed medications are clinically appropriate and verify if they have any other personal dietary restrictions or allergies."
+  },
+  {
+    "norm_id": "afghan_9",
+    "norm": "The person observes fasting during the month of Ramadan (abstaining from food and drink from sunrise to sunset) and may require medication schedules to be adjusted accordingly.",
+    "follow_recommendation": "Proactively adjust medication schedules to non-fasting hours (suhoor and iftar) and discuss safe fasting practices, including conditions under which religious exemptions for illness apply.",
+    "avoid_recommendation": "If the person is exempt from fasting or chooses not to fast, proceed with standard medication schedules while respectfully acknowledging their choice without religious judgment."
+  },
+  {
+    "norm_id": "afghan_10",
+    "norm": "The person may consume a diet high in carbohydrates (rice, wheat) and sugar (sweetened tea) while having a low intake of water, potentially impacting conditions like diabetes or dehydration.",
+    "follow_recommendation": "Provide culturally tailored dietary advice by suggesting gradual modifications (e.g., swapping to whole grains, slowly reducing sugar in tea) rather than eliminating staple foods entirely, and politely encourage hydration.",
+    "avoid_recommendation": "If the person already follows a balanced, low-sugar diet and stays hydrated, praise their healthy habits and focus the consultation on other relevant health maintenance topics."
+  },
+  {
+    "norm_id": "afghan_11",
+    "norm": "The person may exhibit 'silent compliance'—agreeing to treatment plans or advice to be polite, even if they do not intend to follow them or do not fully understand them.",
+    "follow_recommendation": "Use the teach-back method to verify actual understanding, ask about potential barriers to the treatment in a non-confrontational way, and offer alternative options to make the plan practical.",
+    "avoid_recommendation": "If the person actively negotiates, asks questions, or expresses disagreement with the treatment plan, praise their engagement and collaborate with them to find a mutually agreeable solution."
+  },
+  {
+    "norm_id": "afghan_12",
+    "norm": "The person expects physical examinations (if discussed or simulated) to adhere to strict modesty guidelines, such as keeping the hijab on or only exposing the necessary area.",
+    "follow_recommendation": "Explain exactly what the exam entails beforehand, expose only the necessary body parts, use proper draping techniques, and allow the patient to remain as clothed as possible.",
+    "avoid_recommendation": "If the person is less concerned about strict modesty, still maintain standard clinical draping and respect boundaries to ensure a universally professional and comfortable environment."
+  },
+  {
+    "norm_id": "afghan_13",
+    "norm": "The person may define health success through the ability to perform family duties and maintain collective wellbeing rather than solely individual physical metrics.",
+    "follow_recommendation": "Frame health goals and the benefits of treatments around how they will help the patient continue caring for their family, fulfilling their responsibilities, and contributing to collective wellbeing.",
+    "avoid_recommendation": "If the person focuses heavily on individual health goals (e.g., personal fitness, longevity, or personal career), tailor the motivation and health metrics strictly to their specific individual objectives."
+  }
+]

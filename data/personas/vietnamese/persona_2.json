@@ -1,0 +1,163 @@
+[
+  {
+    "norm_id": "vietnamese_1",
+    "norm": "The person adopts a passive role during health consultations, deferring to the AI's advice as an authority figure rather than asking questions or challenging information, based on the belief that the practitioner 'knows best'.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Respect for Authority",
+      "Harmony and Politeness"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_2",
+    "norm": "The person may express agreement (saying 'yes') to indicate they are listening or to maintain social harmony, even if they do not understand or intend to follow the advice.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Harmony and Politeness",
+      "Face Saving"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_3",
+    "norm": "The person may delay seeking help or downplay the severity of symptoms (pain or distress) due to a cultural emphasis on endurance and a desire not to appear weak.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Resilience",
+      "Face Saving"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_4",
+    "norm": "The person prefers to communicate indirectly about sensitive issues, potentially using metaphors or understating symptoms to avoid embarrassment or confrontation.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Harmony and Politeness",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_5",
+    "norm": "The person (particularly if female) prefers to interact with a female-coded AI or provider for issues regarding sexual, reproductive, or mental health to maintain modesty.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_6",
+    "norm": "The person views health holistically and attributes illness to imbalances in natural forces (Am/Duong or Yin/Yang), 'wind' (Phong), or hot/cold properties of food, rather than solely biological pathogens.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic Health Beliefs"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_7",
+    "norm": "The person utilizes dietary therapy (consuming specific foods based on their 'heating' or 'cooling' properties) to restore internal balance and treat illness.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Holistic Health Beliefs"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_8",
+    "norm": "The person may utilize traditional remedies (such as herbal medicine, scraping/coing, or cupping) alongside Western advice, often using the former to restore balance and the latter for symptom relief.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Pragmatism"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_9",
+    "norm": "The person may stop taking prescribed Western medication once symptoms subside to avoid perceived toxicity or 'imbalance' in the body, or reduce dosage without consultation.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Pragmatism"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_10",
+    "norm": "The person expresses mental health distress through somatic symptoms (e.g., headache, back pain, physical weakness) rather than emotional or psychological terms due to high stigma.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Resilience",
+      "Face Saving",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_11",
+    "norm": "The person involves family members in health decision-making and may defer final decisions to senior family members rather than acting autonomously.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Family Duty"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_12",
+    "norm": "The person may attribute illness to supernatural causes (such as spirits or bad karma) or past moral transgressions, particularly regarding mental health or chronic conditions.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Religious/Spiritual Observance"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_13",
+    "norm": "The person expects immediate tangible relief (such as medication or injections) from a consultation and may lose confidence in the service if no direct treatment is offered.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Pragmatism",
+      "Expectation of Cure"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_14",
+    "norm": "The person may perceive Western medicine as 'too strong' or 'hot' and may prefer to balance it with 'cooling' traditional herbal remedies or foods.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic Health Beliefs"
+    ]
+  },
+  {
+    "norm_id": "vietnamese_15",
+    "norm": "The person (if elderly) may view chronic pain or illness as a natural part of aging or karma and choose to endure it without seeking intervention.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Resilience",
+      "Religious/Spiritual Observance"
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "norm_id": "burmese_1",
+    "norm": "The person expects health interactions to be warm, personalized, and caring rather than purely transactional or business-like, as this builds trust and rapport.",
+    "Associated values": [
+      "Harmony and Politeness",
+      "Relationship Building"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_2",
+    "norm": "The person may hesitate to ask questions, express disagreement, or correct the AI due to a cultural hierarchy that views health practitioners as authority figures who 'know best'.",
+    "Associated values": [
+      "Respect for Authority",
+      "Harmony and Politeness"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "burmese_3",
+    "norm": "The person may answer questions with the response they perceive to be most appeasing (e.g., saying 'yes' to indicate listening rather than agreement) to avoid confrontation or impoliteness.",
+    "Associated values": [
+      "Harmony and Politeness",
+      "Face Saving"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "burmese_4",
+    "norm": "The person may use indirect language, euphemisms, or non-verbal cues (like silence or giggling) when discussing sensitive topics such as sexual health or mental health to maintain modesty.",
+    "Associated values": [
+      "Modesty and Privacy",
+      "Indirect Communication"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_5",
+    "norm": "The person (particularly if female) may strongly prefer to interact with a female-coded AI or provider for issues regarding sexual, reproductive, or mental health due to cultural and religious norms regarding gender segregation.",
+    "Associated values": [
+      "Modesty and Privacy",
+      "Religious Observance"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_6",
+    "norm": "The person may prefer to involve family members in health decision-making and treatment planning rather than making decisions autonomously.",
+    "Associated values": [
+      "Collectivism and Family Duty",
+      "Interdependence"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "burmese_7",
+    "norm": "The person may downplay pain or severity of symptoms due to a cultural value of stoicism and a desire not to burden others.",
+    "Associated values": [
+      "Stoicism and Resilience",
+      "Face Saving"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_8",
+    "norm": "The person may express mental health distress through somatic (physical) descriptions such as headaches, back pain, or 'feeling hot', rather than using psychological terminology.",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Stoicism and Resilience"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_9",
+    "norm": "The person may interpret mental health issues through cultural idioms such as 'thinking too much' or 'feeling heavy' rather than Western clinical diagnoses.",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Cultural Interpretation of Illness"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_10",
+    "norm": "The person may utilize traditional herbal remedies (derived from plants, roots, or household items) alongside Western advice, viewing them as safer or complementary.",
+    "Associated values": [
+      "Holistic Health Beliefs",
+      "Reliance on Tradition"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_11",
+    "norm": "The person may expect immediate tangible relief (such as medication advice) from a consultation and may lose confidence in the service if no direct treatment is offered.",
+    "Associated values": [
+      "Pragmatism",
+      "Expectation of Cure"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_12",
+    "norm": "The person may delay seeking help until a condition is severe or viewed as an emergency, rather than engaging in routine preventative care or screening.",
+    "Associated values": [
+      "Pragmatism",
+      "Stoicism and Resilience"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_13",
+    "norm": "The person may follow specific dietary restrictions based on religious beliefs (e.g., Halal for Muslims) or cultural beliefs (e.g., Ayurvedic heating/cooling foods), particularly when managing illness.",
+    "Associated values": [
+      "Religious Observance",
+      "Holistic Health Beliefs"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "burmese_14",
+    "norm": "The person may be motivated to accept health interventions (like vaccinations) by the desire to protect their family and community rather than solely for individual benefit.",
+    "Associated values": [
+      "Collectivism and Family Duty",
+      "Community Responsibility"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "burmese_15",
+    "norm": "The person may feel overwhelmed by complex navigation of health systems or appointment scheduling and requires clear, step-by-step logistical guidance.",
+    "Associated values": [
+      "Health Literacy Challenges",
+      "Need for Navigation Support"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  }
+]

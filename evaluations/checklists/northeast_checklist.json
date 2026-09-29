@@ -1,0 +1,68 @@
+[
+  {
+    "norm_id": "northeast_1",
+    "norm": "The person would push through minor illnesses like a cold or mild fatigue to go to work or school, viewing a sick day as an absolute last resort.",
+    "follow_recommendation": "Acknowledge their drive, but reframe rest as a strategic tool for self-optimization and faster recovery. Provide clear, time-bound recovery plans (e.g., 'Taking 24 hours off now will prevent a 5-day drop in productivity later').",
+    "avoid_recommendation": "Validate their decision to prioritize rest and step away from work. Reassure them that taking time off is a medically sound decision and support their proactive, balanced approach to recovery."
+  },
+  {
+    "norm_id": "northeast_2",
+    "norm": "The person is highly likely to bypass primary care to seek out top-tier specialists, and will travel to major academic medical hubs for multiple opinions.",
+    "follow_recommendation": "Facilitate specialist referrals efficiently and respect their preference for academic or top-tier institutions. Provide high-level data or credentials to support why a specific specialist or institution is being recommended.",
+    "avoid_recommendation": "Praise their trust in primary care and holistic, localized management. Emphasize the value of continuity of care, building a long-term relationship with a single trusted provider, and avoiding unnecessary medical fragmentation."
+  },
+  {
+    "norm_id": "northeast_3",
+    "norm": "The person is an active, skeptical consumer of healthcare, meaning they will research symptoms online, bring medical studies to appointments, and openly challenge a doctor's diagnosis.",
+    "follow_recommendation": "Engage intellectually and avoid being defensive. Discuss the studies they bring, explain clinical reasoning using evidence-based data, and treat them as an active partner in shared decision-making.",
+    "avoid_recommendation": "Provide clear, authoritative, and structured guidance without overwhelming them with data. Respect their choice to defer to clinical expertise and trust your judgment without needing to debate the literature."
+  },
+  {
+    "norm_id": "northeast_4",
+    "norm": "The person is willing to invest significant disposable income into boutique fitness, specialized diets, and trendy wellness practices.",
+    "follow_recommendation": "Integrate their wellness practices into the care plan where safe. Discuss the physiological mechanisms of their routines to align with their optimization goals, while gently steering them away from financially exploitative or harmful fads.",
+    "avoid_recommendation": "Focus on foundational, cost-effective health measures (like standard exercise, basic nutrition, and routine sleep hygiene). Validate their pragmatic approach to health without pressuring them into expensive wellness trends."
+  },
+  {
+    "norm_id": "northeast_5",
+    "norm": "The person is blunt, direct, and efficient when speaking to healthcare providers, expecting raw data and facts immediately with minimal small talk.",
+    "follow_recommendation": "Get straight to the point. Use clear metrics, structured data, and concise summaries. Minimize filler conversation, deliver the bottom line upfront, and respect their time constraints.",
+    "avoid_recommendation": "Engage in warmer, more conversational dialogue. Take the time to build rapport through empathetic listening, open-ended questions, and exploring the emotional context of their health issues."
+  },
+  {
+    "norm_id": "northeast_6",
+    "norm": "The person is completely transparent about being in therapy and will openly discuss their mental health upkeep in casual social settings.",
+    "follow_recommendation": "Match their openness and treat mental health upkeep as a routine, positive aspect of overall health. Speak directly and clinically about psychological well-being without using overly cautious, hushed, or stigmatizing language.",
+    "avoid_recommendation": "Approach mental health topics with high sensitivity and privacy. Ensure they feel safe and comfortable, recognizing they may prefer a more discreet or traditional boundary around psychological care."
+  },
+  {
+    "norm_id": "northeast_7",
+    "norm": "The person would schedule medical appointments or telehealth consultations during their brief lunch break or while commuting to avoid missing billable work hours.",
+    "follow_recommendation": "Be highly punctual, organized, and efficient. Offer streamlined telehealth follow-ups, asynchronous communication options, and rapid check-ins that fit seamlessly into their tightly packed schedule.",
+    "avoid_recommendation": "Encourage them to take dedicated time for their health appointments. Appreciate their willingness to carve out distraction-free time to focus comprehensively on their well-being without multitasking."
+  },
+  {
+    "norm_id": "northeast_8",
+    "norm": "The person would demand early screening tests, elective imaging, or advanced genetic profiling even if not explicitly recommended by standard insurance guidelines.",
+    "follow_recommendation": "Discuss the statistical pros and cons (e.g., false positives, predictive value) of advanced screenings intellectually. If safe and ethical, facilitate self-pay options or refer them to specialized preventative longevity clinics.",
+    "avoid_recommendation": "Reassure them that standard, guideline-based care is sufficient and optimal. Praise their balanced approach to healthcare and their desire to avoid over-medicalization or unnecessary testing anxiety."
+  },
+  {
+    "norm_id": "northeast_9",
+    "norm": "The person is quick to terminate a relationship with a physician or leave a negative online review if they feel the office operations are administratively slow or disorganized.",
+    "follow_recommendation": "Ensure seamless, tech-forward administrative experiences (e.g., efficient patient portals, prompt lab result releases). If delays occur, apologize directly with a concrete solution and timeline rather than making excuses.",
+    "avoid_recommendation": "Focus primarily on the quality of the interpersonal clinical relationship. Recognize and validate that they value the provider's bedside manner, empathy, and clinical care over purely administrative or technological efficiency."
+  },
+  {
+    "norm_id": "northeast_10",
+    "norm": "The person is eager to try unproven biohacking methods, high-end sleep trackers, or expensive longevity infusions recommended by prominent urban wellness influencers.",
+    "follow_recommendation": "Review their tracking data with them and discuss the scientific validity of their biohacking methods. Help them safely iterate on their self-optimization experiments while providing evidence-based boundaries against dangerous interventions.",
+    "avoid_recommendation": "Emphasize traditional, proven pillars of health. Support their skepticism of expensive, unproven health fads and validate their preference for strictly evidence-based, conventional medical interventions."
+  },
+  {
+    "norm_id": "northeast_11",
+    "norm": "The person would openly ask colleagues or friends to recommend 'the absolute best Ivy-league trained psychiatrist' in the city without feeling any social awkwardness.",
+    "follow_recommendation": "Provide referrals that explicitly highlight the credentials, institutional affiliations, and specific expertise of the specialists to align with their value of prestige and top-tier academic training.",
+    "avoid_recommendation": "Focus referrals on provider empathy, accessibility, and goodness-of-fit rather than strictly academic pedigree. Validate their desire for a supportive, relatable, and down-to-earth therapeutic relationship."
+  }
+]

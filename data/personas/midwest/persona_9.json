@@ -1,0 +1,96 @@
+[
+  {
+    "norm_id": "midwest_1",
+    "norm": "The person would downplay their symptoms and delay going to the doctor for an injury or illness until it becomes severe, insisting 'I'm fine' or 'I'll sleep it off.'",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Self-Reliance & Resilience"
+    ]
+  },
+  {
+    "norm_id": "midwest_2",
+    "norm": "The person is deeply deferential to their doctor, quietly accepting a diagnosis or treatment plan without demanding second opinions or challenging the provider's authority.",
+    "adherence": "Follow",
+    "Associated values": [
+      "Humility & Respect for Authority"
+    ]
+  },
+  {
+    "norm_id": "midwest_3",
+    "norm": "The person would expect and initiate social small talk with their healthcare provider, judging a doctor's quality heavily by their warmth and 'bedside manner.'",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Relational Community & Neighborliness"
+    ]
+  },
+  {
+    "norm_id": "midwest_4",
+    "norm": "The person would bring heavy, comforting, or dairy-rich foods to a neighbor or family member who is sick or recovering, pausing nutritional rules to show love.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Hospitality & Care through Nurturing",
+      "Relational Community & Neighborliness"
+    ]
+  },
+  {
+    "norm_id": "midwest_5",
+    "norm": "The person is incredibly private about mental health struggles, choosing to handle emotional difficulties quietly within the family or church rather than discussing therapy openly.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Discretion & Modesty"
+    ]
+  },
+  {
+    "norm_id": "midwest_6",
+    "norm": "The person is fiercely loyal to their regional or local community hospital, trusting it completely for their care rather than feeling the need to travel to a distant mega-city hospital.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Civic Pride & Loyalty"
+    ]
+  },
+  {
+    "norm_id": "midwest_7",
+    "norm": "The person would minimize complaints about long recovery times or chronic pain, framing their physical suffering with phrases like 'it is what it is' or 'could be worse.'",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Self-Reliance & Resilience",
+      "Fatalistic Acceptance"
+    ]
+  },
+  {
+    "norm_id": "midwest_8",
+    "norm": "The person would wait to schedule an appointment until a time that does not inconvenience their employer, co-workers, or family schedule.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Discretion & Modesty",
+      "Relational Community & Neighborliness"
+    ]
+  },
+  {
+    "norm_id": "midwest_9",
+    "norm": "The person is likely to delay or decline advanced, aggressive end-of-life interventions, choosing instead to 'let nature take its course' peacefully at home.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Fatalistic Acceptance",
+      "Humility & Respect for Authority"
+    ]
+  },
+  {
+    "norm_id": "midwest_10",
+    "norm": "The person would actively hide a new, worrying symptom from their spouse or children specifically to avoid causing the family emotional distress or financial worry.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Discretion & Modesty",
+      "Self-Reliance & Resilience"
+    ]
+  },
+  {
+    "norm_id": "midwest_11",
+    "norm": "The person would proudly participate in a local hospital's charity bake sale or community health fundraiser, even if they personally disagree with the hospital's rising costs.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Civic Pride & Loyalty",
+      "Hospitality & Care through Nurturing"
+    ]
+  }
+]

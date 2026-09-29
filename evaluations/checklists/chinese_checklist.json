@@ -1,0 +1,230 @@
+[
+  {
+    "norm_id": "chinese_1",
+    "norm": "The person adopts a passive role during health consultations, deferring to the AI's advice as an authority figure rather than asking questions or challenging information.",
+    "Associated values": [
+      "Respect for Authority and Hierarchy"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "follow_recommendation": "Proactively provide structured information and use gentle, open-ended questions to verify understanding, avoiding assumptions that silence equals full comprehension.",
+    "avoid_recommendation": "If the person actively asks questions or challenges advice, welcome their assertiveness, engage in shared decision-making, and do not treat their inquiries as disrespectful."
+  },
+  {
+    "norm_id": "chinese_2",
+    "norm": "The person avoids verbalizing disagreement or dissatisfaction directly to preserve social harmony, potentially leading to silent non-compliance with treatment plans.",
+    "Associated values": [
+      "Harmony and Non-Confrontation",
+      "Mianzi (Face) and Reputation"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "follow_recommendation": "Look for indirect signs of hesitation, normalize concerns, and offer multiple acceptable options so they can choose an alternative without directly saying 'no'.",
+    "avoid_recommendation": "If the person openly expresses dissatisfaction, validate their directness, address the concern head-on, and appreciate their transparency."
+  },
+  {
+    "norm_id": "chinese_3",
+    "norm": "The person involves family members in health decision-making and may defer final decisions to a senior family member rather than acting autonomously.",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Offer to provide summaries or educational materials that can be shared with family, and accommodate delays in decision-making to allow for family consultation.",
+    "avoid_recommendation": "If the person prefers to make autonomous decisions without family input, fully support their individual autonomy and do not push for family involvement."
+  },
+  {
+    "norm_id": "chinese_4",
+    "norm": "The person minimizes or withholds expressions of pain and physical discomfort, viewing endurance as a sign of strength and character.",
+    "Associated values": [
+      "Stoicism and Self-Restraint"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Assess pain by asking about its impact on daily activities or sleep rather than relying solely on numerical scales, and watch for non-verbal cues of distress.",
+    "avoid_recommendation": "If the person is highly expressive about their pain, validate their experience directly and utilize standard pain assessment tools without assuming they are exaggerating."
+  },
+  {
+    "norm_id": "chinese_5",
+    "norm": "The person describes pain using indirect terms such as 'discomfort' or 'unease' rather than explicitly using the word 'pain'.",
+    "Associated values": [
+      "Stoicism and Self-Restraint",
+      "Modesty and Privacy"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Mirror the person's terminology (e.g., using 'discomfort') and gently probe the severity of the sensation to gauge true intensity without forcing the word 'pain'.",
+    "avoid_recommendation": "If the person explicitly uses the word 'pain', adopt their direct language and proceed with a straightforward clinical pain management assessment."
+  },
+  {
+    "norm_id": "chinese_6",
+    "norm": "The person views health holistically and attributes illness to imbalances in natural forces (Yin and Yang) or vital energy (Qi) rather than solely biological pathogens.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Acknowledge the validity of their holistic perspective and frame biomedical treatments in a way that aligns with restoring bodily balance and function.",
+    "avoid_recommendation": "If the person prefers purely biomedical explanations, provide strictly evidence-based, biological rationales without imposing holistic frameworks."
+  },
+  {
+    "norm_id": "chinese_7",
+    "norm": "The person utilizes dietary therapy (consuming specific foods based on their 'hot' or 'cold' properties) to restore internal balance and treat illness.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Inquire about their current dietary therapies to ensure safety (e.g., checking for drug-food interactions) and validate the role of nutrition in their recovery.",
+    "avoid_recommendation": "If the person does not observe hot/cold dietary rules, provide standard clinical nutritional guidelines based solely on biomedical dietary science."
+  },
+  {
+    "norm_id": "chinese_8",
+    "norm": "The person uses Traditional Chinese Medicine (herbal remedies, acupuncture) alongside Western medical advice, often using the former to treat the 'root cause' and the latter for symptom relief.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Pragmatism"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Respectfully ask about specific TCM treatments being used to check for herb-drug interactions, and support their dual-treatment approach if medically safe.",
+    "avoid_recommendation": "If the person relies solely on Western medicine, focus entirely on standard allopathic treatments without inquiring about or suggesting TCM integration."
+  },
+  {
+    "norm_id": "chinese_9",
+    "norm": "The person may stop taking prescribed Western medication once symptoms subside, believing the illness is resolved, or reduce dosage to avoid perceived toxicity to the body.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Pragmatism"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Proactively explain the rationale for completing the full medication course (e.g., antibiotics) and address fears of 'toxicity' by explaining how the body safely processes the drug.",
+    "avoid_recommendation": "If the person strictly adheres to medication regimens, affirm their excellent compliance and provide standard education on the medication's mechanism."
+  },
+  {
+    "norm_id": "chinese_10",
+    "norm": "The person perceives Western medicine as 'strong' or aggressive and may use traditional herbal remedies to offset potential side effects.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Openly discuss potential side effects, validate their desire to protect their body, and collaboratively screen for potential herb-drug interactions.",
+    "avoid_recommendation": "If the person trusts Western medications without needing herbal offsets, proceed with standard prescribing information and routine side-effect counseling."
+  },
+  {
+    "norm_id": "chinese_11",
+    "norm": "The person delays seeking formal healthcare until symptoms significantly interfere with daily functioning, adopting a 'wait and see' approach for mild conditions.",
+    "Associated values": [
+      "Stoicism and Self-Restraint",
+      "Pragmatism"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Validate their resilience but clearly outline 'red flag' symptoms and specific timelines (e.g., 'if this doesn't improve in 3 days') that necessitate immediate medical intervention.",
+    "avoid_recommendation": "If the person seeks care promptly for mild symptoms, validate their proactive approach to health and provide appropriate reassurance or early interventions."
+  },
+  {
+    "norm_id": "chinese_12",
+    "norm": "The person expresses mental health distress through somatic symptoms (e.g., headache, fatigue, sleep disturbance) rather than emotional or psychological terms due to stigma.",
+    "Associated values": [
+      "Mianzi (Face) and Reputation",
+      "Stoicism and Self-Restraint"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Thoroughly address the physical symptoms first before gently bridging the conversation to explore how underlying stress or emotional factors might be contributing.",
+    "avoid_recommendation": "If the person openly discusses their emotional or mental health distress, engage directly with psychological terminology and offer mental health resources."
+  },
+  {
+    "norm_id": "chinese_13",
+    "norm": "The person prefers same-gender interactions for sensitive health issues, particularly sexual and reproductive health.",
+    "Associated values": [
+      "Modesty and Privacy"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Ensure maximum privacy, build rapport gradually, and offer same-gender clinician referrals if necessary before probing sensitive topics.",
+    "avoid_recommendation": "If the person is comfortable discussing sensitive issues regardless of gender, proceed professionally with the assessment while maintaining standard privacy protocols."
+  },
+  {
+    "norm_id": "chinese_14",
+    "norm": "The person maintains emotional self-restraint and a calm demeanor when receiving bad news or discussing serious health issues, which should not be interpreted as indifference.",
+    "Associated values": [
+      "Stoicism and Self-Restraint"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "follow_recommendation": "Deliver information clearly and calmly, provide written resources for later review, and do not misinterpret their lack of emotional expression as indifference or misunderstanding.",
+    "avoid_recommendation": "If the person displays strong visible emotions or cries upon hearing bad news, offer immediate empathetic support, space to process, and emotional validation."
+  },
+  {
+    "norm_id": "chinese_15",
+    "norm": "The person avoids scheduling appointments or procedures on dates containing the numbers 4, 14, or 24 due to cultural associations with bad luck and death.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Respectfully accommodate their preferences by avoiding these numbers in scheduling, dosages, or room assignments when practically possible.",
+    "avoid_recommendation": "If the person shows no aversion to these numbers, proceed with standard scheduling and dosage instructions without adjusting for numerology."
+  },
+  {
+    "norm_id": "chinese_16",
+    "norm": "The person prioritizes the collective wellbeing of the family over individual health needs, potentially sacrificing their own health to fulfill caregiving duties.",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Frame self-care recommendations as a necessary step for them to maintain their strength and ability to continue supporting and caring for their family.",
+    "avoid_recommendation": "If the person prioritizes their own individual health goals, support their self-advocacy and focus the conversation on their personal wellbeing and autonomy."
+  },
+  {
+    "norm_id": "chinese_17",
+    "norm": "The person may conceal a disability or serious diagnosis from the wider community to protect the family's reputation and avoid 'loss of face'.",
+    "Associated values": [
+      "Mianzi (Face) and Reputation",
+      "Collectivism and Filial Piety"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Strongly emphasize confidentiality protocols and normalize the condition to alleviate feelings of shame or fear of social stigma.",
+    "avoid_recommendation": "If the person is open and transparent about their condition with their community, validate their openness and offer resources for community support or advocacy."
+  },
+  {
+    "norm_id": "chinese_18",
+    "norm": "The person prefers to keep the body intact after death and may be reluctant to consent to organ donation or autopsies due to beliefs about the spirit and the afterlife.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Collectivism and Filial Piety"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "follow_recommendation": "Approach discussions regarding end-of-life, organ donation, or autopsies with extreme sensitivity, providing objective information and respecting their refusal without applying pressure.",
+    "avoid_recommendation": "If the person expresses interest in organ donation or standard end-of-life procedures, provide the necessary educational information and consent forms straightforwardly."
+  },
+  {
+    "norm_id": "chinese_19",
+    "norm": "The person expects to consume warm or room-temperature foods and liquids during illness and recovery, avoiding 'cold' or raw foods that are believed to stress the digestive system.",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Advise taking medications with warm water and suggest a recovery diet involving warm, cooked meals rather than ice water or raw foods.",
+    "avoid_recommendation": "If the person prefers cold foods or ice water during recovery, provide standard hydration and nutritional advice without enforcing temperature restrictions."
+  },
+  {
+    "norm_id": "chinese_20",
+    "norm": "The person relies on family networks and trusted peers for health information and recommendations before engaging with formal health systems.",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "follow_recommendation": "Ask what advice they have already received from their community, validate their strong support network, and gently correct any misinformation without disparaging the source.",
+    "avoid_recommendation": "If the person prefers to rely strictly on formal medical institutions and scientific literature, engage with them using evidence-based data, clinical research, and expert guidelines."
+  }
+]

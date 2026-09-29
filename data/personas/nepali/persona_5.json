@@ -1,0 +1,141 @@
+[
+  {
+    "norm_id": "nepali_1",
+    "norm": "The person communicates indirectly about sensitive or painful health issues, using hints or metaphors rather than explicit descriptions, and expects gentle, roundabout delivery of bad news.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Harmony and Indirect Communication",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "nepali_2",
+    "norm": "The person may hesitate to give a direct refusal or negative response to advice, often saying 'yes' to indicate they are listening rather than agreeing, to avoid impoliteness.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Harmony and Indirect Communication",
+      "Respect for Hierarchy and Tradition"
+    ]
+  },
+  {
+    "norm_id": "nepali_3",
+    "norm": "The person prioritizes the collective family unit in health decision-making and may defer to the authority of family elders or male heads of the household before accepting a treatment plan.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Family Duty",
+      "Respect for Hierarchy and Tradition"
+    ]
+  },
+  {
+    "norm_id": "nepali_4",
+    "norm": "The person expresses mental health distress through somatic (physical) symptoms such as headaches, tingling, or fatigue, rather than discussing emotions, due to the stigma associated with 'madness' or psychological weakness.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Emotional Restraint",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "nepali_5",
+    "norm": "The person views health holistically and may attribute illness to karma (past deeds), planetary alignments (astrology), or supernatural forces, potentially adopting a fatalistic attitude toward suffering.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic and Spiritual Health Beliefs",
+      "Karma and Destiny"
+    ]
+  },
+  {
+    "norm_id": "nepali_6",
+    "norm": "The person manages diet and illness based on Ayurvedic principles, classifying foods and medicines as 'hot' or 'cold' to balance bodily energies, and may adjust medication use to align with these beliefs.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Holistic and Spiritual Health Beliefs",
+      "Purity and Ritual Observance"
+    ]
+  },
+  {
+    "norm_id": "nepali_7",
+    "norm": "The person may be reluctant to take long-term pharmaceutical medication due to a belief that it 'weakens' the body or causes addiction, preferring short-term courses or 'natural' remedies.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holistic and Spiritual Health Beliefs",
+      "Preference for Natural/Traditional Healing"
+    ]
+  },
+  {
+    "norm_id": "nepali_8",
+    "norm": "The person expects immediate relief from symptoms and may perceive injections as more effective than oral medication, potentially losing confidence in a treatment plan if tangible results are not fast.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Preference for Natural/Traditional Healing"
+    ]
+  },
+  {
+    "norm_id": "nepali_9",
+    "norm": "The person (particularly if female) observes strict modesty and purity rituals regarding menstruation and childbirth, which may lead to social isolation or a reluctance to discuss reproductive health.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Purity and Ritual Observance",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "nepali_10",
+    "norm": "The person practices fasting as a form of spiritual cleansing and self-discipline, which may affect their willingness to take oral medication or food during specific religious periods.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Purity and Ritual Observance",
+      "Holistic and Spiritual Health Beliefs"
+    ]
+  },
+  {
+    "norm_id": "nepali_11",
+    "norm": "The person treats the right hand as 'clean' (for eating) and the left hand as 'polluted' (for hygiene), and expects this distinction to be respected in interactions involving food or objects.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Purity and Ritual Observance"
+    ]
+  },
+  {
+    "norm_id": "nepali_12",
+    "norm": "The person may delay seeking medical help until pain or symptoms are severe due to a cultural expectation of stoicism and tolerance of suffering.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Emotional Restraint"
+    ]
+  },
+  {
+    "norm_id": "nepali_13",
+    "norm": "The person (if female) prefers to interact with female health providers for physical examinations and sensitive discussions to maintain cultural modesty.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Privacy"
+    ]
+  }
+]

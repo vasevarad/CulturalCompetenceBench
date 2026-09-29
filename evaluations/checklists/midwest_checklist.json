@@ -1,0 +1,68 @@
+[
+  {
+    "norm_id": "midwest_1",
+    "norm": "The person would downplay their symptoms and delay going to the doctor for an injury or illness until it becomes severe, insisting 'I'm fine' or 'I'll sleep it off.'",
+    "follow_recommendation": "Acknowledge their resilience, but reframe seeking care as a practical step to 'get back to work' or 'keep helping the family' faster. Avoid making them feel weak for needing help; instead, praise their proactive maintenance.",
+    "avoid_recommendation": "Validate their proactive approach to their health. Encourage their openness about symptoms and support their decision to seek prompt, preventative care before things worsen."
+  },
+  {
+    "norm_id": "midwest_2",
+    "norm": "The person is deeply deferential to their doctor, quietly accepting a diagnosis or treatment plan without demanding second opinions or challenging the provider's authority.",
+    "follow_recommendation": "Use the 'teach-back' method and explicitly invite their input by asking, 'How well do you think this plan will fit into your daily routine?' to ensure they aren't just agreeing out of politeness.",
+    "avoid_recommendation": "Welcome their questions, self-advocacy, and research. Engage respectfully with their alternative ideas or requests for second opinions, validating their active role in their own healthcare."
+  },
+  {
+    "norm_id": "midwest_3",
+    "norm": "The person would expect and initiate social small talk with their healthcare provider, judging a doctor's quality heavily by their warmth and 'bedside manner.'",
+    "follow_recommendation": "Start the interaction with warm, personal check-ins (e.g., asking about their family, the weather, or local events). Build relational rapport first to establish trust before pivoting to clinical data.",
+    "avoid_recommendation": "Be direct and highly efficient. Respect their preference for getting straight to the point, focusing purely on clinical facts, data, and treatment plans without obligatory small talk."
+  },
+  {
+    "norm_id": "midwest_4",
+    "norm": "The person would bring heavy, comforting, or dairy-rich foods to a neighbor or family member who is sick or recovering, pausing nutritional rules to show love.",
+    "follow_recommendation": "Acknowledge the care and love behind the gesture. If medical dietary restrictions apply, gently suggest culturally appropriate but safer alternatives (e.g., lower-sodium soups) without criticizing their way of showing affection.",
+    "avoid_recommendation": "Affirm their strict adherence to nutritional guidelines. Support their choice to prioritize evidence-based medical diets and optimized nutrition over traditional comfort foods during recovery."
+  },
+  {
+    "norm_id": "midwest_5",
+    "norm": "The person is incredibly private about mental health struggles, choosing to handle emotional difficulties quietly within the family or church rather than discussing therapy openly.",
+    "follow_recommendation": "Frame mental health discussions around physical symptoms (like sleep or energy) or terms like 'stress' and 'burnout.' If referring to counseling, suggest community or faith-based resources they might already trust.",
+    "avoid_recommendation": "Match their psychological transparency. Speak openly and clinically about mental health diagnoses, validating their willingness to break the stigma and utilize secular professional psychiatric or psychological services."
+  },
+  {
+    "norm_id": "midwest_6",
+    "norm": "The person is fiercely loyal to their regional or local community hospital, trusting it completely for their care rather than feeling the need to travel to a distant mega-city hospital.",
+    "follow_recommendation": "Coordinate care locally as much as possible. If a transfer to a larger specialist center is medically necessary, frame it as a partnership with their local doctor to ensure they maintain a sense of familiarity and trust.",
+    "avoid_recommendation": "Facilitate referrals to top-tier, out-of-state, or mega-city academic medical centers. Validate their willingness to travel and seek out specialized, brand-name institutions for their care."
+  },
+  {
+    "norm_id": "midwest_7",
+    "norm": "The person would minimize complaints about long recovery times or chronic pain, framing their physical suffering with phrases like 'it is what it is' or 'could be worse.'",
+    "follow_recommendation": "Read between the lines of their minimization. Ask specific, functional questions (e.g., 'Does this stop you from doing yard work?') rather than relying solely on a 1-10 pain scale to gauge their true level of discomfort.",
+    "avoid_recommendation": "Validate their direct reporting of pain and frustration. Address their complaints comprehensively and offer proactive, aggressive pain management or advanced physical therapy strategies."
+  },
+  {
+    "norm_id": "midwest_8",
+    "norm": "The person would wait to schedule an appointment until a time that does not inconvenience their employer, co-workers, or family schedule.",
+    "follow_recommendation": "Offer highly flexible, low-friction scheduling options like early mornings or telehealth. Reassure them that taking time for this appointment is necessary so they can continue to be reliable for their family and job.",
+    "avoid_recommendation": "Commend their prioritization of their own health. Support their healthy boundary-setting in taking time off work or stepping away from family duties to attend promptly to their medical needs."
+  },
+  {
+    "norm_id": "midwest_9",
+    "norm": "The person is likely to delay or decline advanced, aggressive end-of-life interventions, choosing instead to 'let nature take its course' peacefully at home.",
+    "follow_recommendation": "Discuss palliative care, hospice, and symptom management early. Respect their wishes for comfort and home-based care without pushing treatments they view as burdensome or overly aggressive.",
+    "avoid_recommendation": "Support their desire to fight the illness aggressively. Provide detailed information on advanced clinical trials, life-extending interventions, and comprehensive curative measures."
+  },
+  {
+    "norm_id": "midwest_10",
+    "norm": "The person would actively hide a new, worrying symptom from their spouse or children specifically to avoid causing the family emotional distress or financial worry.",
+    "follow_recommendation": "Provide a safe, highly confidential space for them to disclose. Encourage them to seek treatment by framing early medical intervention as the best way to protect their family from future, more severe emotional or financial burdens.",
+    "avoid_recommendation": "Acknowledge and praise their open communication with their family. Encourage family-centered discussions and willingly involve their support system in the treatment plan as they desire."
+  },
+  {
+    "norm_id": "midwest_11",
+    "norm": "The person would proudly participate in a local hospital's charity bake sale or community health fundraiser, even if they personally disagree with the hospital's rising costs.",
+    "follow_recommendation": "Recognize and praise their community spirit and civic involvement. Leverage community resources, local support groups, and community-based wellness programs as part of their broader care plan.",
+    "avoid_recommendation": "Validate their critical view of the healthcare system. Engage in transparent discussions about healthcare economics and support their pragmatic, consumer-driven approach to medical expenses and systemic inefficiencies."
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "norm_id": "northeast_1",
+    "norm": "The person would push through minor illnesses like a cold or mild fatigue to go to work or school, viewing a sick day as an absolute last resort.",
+    "adherence": "Avoid",
+    "Associated values": [
+      "Hyper-productivity & Ambition"
+    ]
+  },
+  {
+    "norm_id": "northeast_2",
+    "norm": "The person is highly likely to bypass primary care to seek out top-tier specialists, and will travel to major academic medical hubs for multiple opinions.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Intellectualism & Institutional Trust",
+      "Socioeconomic Class Signaling"
+    ]
+  },
+  {
+    "norm_id": "northeast_3",
+    "norm": "The person is an active, skeptical consumer of healthcare, meaning they will research symptoms online, bring medical studies to appointments, and openly challenge a doctor's diagnosis.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Autonomy & Skepticism",
+      "Intellectualism & Institutional Trust"
+    ]
+  },
+  {
+    "norm_id": "northeast_4",
+    "norm": "The person is willing to invest significant disposable income into boutique fitness, specialized diets, and trendy wellness practices.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Self-Optimization",
+      "Socioeconomic Class Signaling"
+    ]
+  },
+  {
+    "norm_id": "northeast_5",
+    "norm": "The person is blunt, direct, and efficient when speaking to healthcare providers, expecting raw data and facts immediately with minimal small talk.",
+    "adherence": "Follow",
+    "Associated values": [
+      "Pragmatism & Efficiency"
+    ]
+  },
+  {
+    "norm_id": "northeast_6",
+    "norm": "The person is completely transparent about being in therapy and will openly discuss their mental health upkeep in casual social settings.",
+    "adherence": "Follow",
+    "Associated values": [
+      "Psychological Transparency"
+    ]
+  },
+  {
+    "norm_id": "northeast_7",
+    "norm": "The person would schedule medical appointments or telehealth consultations during their brief lunch break or while commuting to avoid missing billable work hours.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Hyper-productivity & Ambition",
+      "Pragmatism & Efficiency"
+    ]
+  },
+  {
+    "norm_id": "northeast_8",
+    "norm": "The person would demand early screening tests, elective imaging, or advanced genetic profiling even if not explicitly recommended by standard insurance guidelines.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Autonomy & Skepticism",
+      "Self-Optimization"
+    ]
+  },
+  {
+    "norm_id": "northeast_9",
+    "norm": "The person is quick to terminate a relationship with a physician or leave a negative online review if they feel the office operations are administratively slow or disorganized.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Pragmatism & Efficiency",
+      "Autonomy & Skepticism"
+    ]
+  },
+  {
+    "norm_id": "northeast_10",
+    "norm": "The person is eager to try unproven biohacking methods, high-end sleep trackers, or expensive longevity infusions recommended by prominent urban wellness influencers.",
+    "adherence": "Neutral",
+    "Associated values": [
+      "Self-Optimization",
+      "Socioeconomic Class Signaling"
+    ]
+  },
+  {
+    "norm_id": "northeast_11",
+    "norm": "The person would openly ask colleagues or friends to recommend 'the absolute best Ivy-league trained psychiatrist' in the city without feeling any social awkwardness.",
+    "adherence": "Follow",
+    "Associated values": [
+      "Psychological Transparency",
+      "Intellectualism & Institutional Trust"
+    ]
+  }
+]

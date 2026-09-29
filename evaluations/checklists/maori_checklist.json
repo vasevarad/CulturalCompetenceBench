@@ -1,0 +1,116 @@
+[
+  {
+    "norm_id": "maori_1",
+    "norm": "The person expects to establish a personal connection (whanaungatanga) and rapport before discussing specific medical or health business, as impersonal communication is often perceived as rude or unwelcoming.",
+    "follow_recommendation": "Acknowledge and reciprocate the desire for connection. Start conversations with warm greetings, and engage in brief rapport-building or polite inquiries about their general well-being before transitioning into medical topics.",
+    "avoid_recommendation": "If the person skips rapport-building and gets straight to the point, respect their pace. Focus directly on the medical or health business promptly without forcing small talk, while maintaining a polite and professional tone."
+  },
+  {
+    "norm_id": "maori_2",
+    "norm": "The person prefers to understand the specific role and 'identity' of the AI assistant early in the interaction to build trust, mirroring the cultural practice of introductions.",
+    "follow_recommendation": "Clearly introduce yourself, explain your role as an AI, and outline your capabilities and limitations at the very beginning of the interaction to establish transparency and build trust.",
+    "avoid_recommendation": "If the person bypasses introductions and immediately asks a health question, proceed by answering their question directly, ensuring that any necessary disclaimers about AI limitations are woven naturally into the response rather than forcing a formal introduction."
+  },
+  {
+    "norm_id": "maori_3",
+    "norm": "The person prioritizes the well-being of their family (whānau) over their individual health and may delay seeking help for themselves to attend to family needs or financial obligations.",
+    "follow_recommendation": "Validate their dedication to their whānau. Frame health advice by highlighting how taking care of their own health is essential for them to continue supporting and caring for their family.",
+    "avoid_recommendation": "If the person prioritizes their individual health or does not mention family, focus purely on individual health outcomes, personal recovery goals, and self-care strategies without assuming or imposing a family-centric framework."
+  },
+  {
+    "norm_id": "maori_4",
+    "norm": "The person prefers to involve family members in health decision-making processes and may defer giving a final answer on treatment plans until they have consulted with their collective unit.",
+    "follow_recommendation": "Encourage them to discuss options with their whānau. Provide clear summaries or written information they can easily share with family members, and do not pressure them for immediate decisions.",
+    "avoid_recommendation": "If the person prefers to make decisions independently, support their autonomy. Provide them with the necessary information to make a personal choice without questioning the absence of family input."
+  },
+  {
+    "norm_id": "maori_5",
+    "norm": "The person views health holistically (Te Ao Māori), believing that physical health is inextricably linked to spiritual, mental, and social well-being, and expects health advice to respect this multidimensional view.",
+    "follow_recommendation": "Incorporate spiritual, mental, and social well-being into health discussions. Ask how their condition affects these broader areas of life and validate the interconnectedness of their overall well-being.",
+    "avoid_recommendation": "If the person focuses strictly on the physical or biomedical aspects of their health, address their physical symptoms directly using standard medical frameworks without forcing holistic or spiritual concepts into the conversation."
+  },
+  {
+    "norm_id": "maori_6",
+    "norm": "The person may feel uncomfortable asking questions unprompted or disagreeing with advice due to a power imbalance or a desire to be a 'good patient,' requiring the AI to actively check for understanding using open-ended questions.",
+    "follow_recommendation": "Create a safe, non-judgmental space and actively use open-ended questions to check for understanding (e.g., 'What are your thoughts on this plan?'). Avoid closed questions like 'Do you understand?' which may prompt a reflexive 'yes'.",
+    "avoid_recommendation": "If the person is proactive in asking questions, challenging advice, or expressing disagreement, encourage their self-advocacy. Answer their questions directly and validate their active role in managing their healthcare."
+  },
+  {
+    "norm_id": "maori_7",
+    "norm": "The person prefers plain, simple language over medical jargon to avoid feelings of alienation or frustration (whakamā) regarding their health literacy.",
+    "follow_recommendation": "Use clear, everyday language. Break down complex medical terms into easily understandable concepts to prevent alienation, embarrassment, or frustration.",
+    "avoid_recommendation": "If the person confidently uses medical jargon or demonstrates high health literacy, match their communication style and use precise medical terminology to ensure an efficient and respectful exchange."
+  },
+  {
+    "norm_id": "maori_8",
+    "norm": "The person may minimize or downplay the severity of pain or symptoms due to a cultural tendency toward stoicism and a desire not to be perceived as 'weak' or a burden.",
+    "follow_recommendation": "Gently probe for more details if you suspect they are minimizing symptoms. Normalize the sharing of pain levels by explaining that honest reporting is a crucial tool for providing them with the best possible care.",
+    "avoid_recommendation": "If the person expresses their pain or symptoms openly and severely, validate their experience immediately and prioritize addressing their discomfort without assuming they are exaggerating."
+  },
+  {
+    "norm_id": "maori_9",
+    "norm": "The person may attribute certain illnesses or symptoms to spiritual causes (mate Māori) or transgressions of tapu (sacredness) rather than purely biomedical causes.",
+    "follow_recommendation": "Respectfully acknowledge their spiritual beliefs regarding their illness. Do not dismiss or minimize these attributions; instead, position biomedical advice as a complementary approach alongside their spiritual understanding.",
+    "avoid_recommendation": "If the person attributes their illness strictly to biomedical or environmental causes, focus the discussion on scientific, medical explanations and evidence-based treatments without introducing spiritual concepts."
+  },
+  {
+    "norm_id": "maori_10",
+    "norm": "The person considers the head to be the most sacred (tapu) part of the body and expects explicit permission to be sought before any discussion or procedure involving the head.",
+    "follow_recommendation": "Acknowledge the cultural significance and sacredness (tapu) of the head. Explicitly ask for permission before suggesting any procedures, examinations, or deep discussions involving the head or hair.",
+    "avoid_recommendation": "If the person does not demonstrate specific cultural sensitivity regarding their head, proceed with standard medical professionalism and consent practices without over-emphasizing cultural sacredness."
+  },
+  {
+    "norm_id": "maori_11",
+    "norm": "The person adheres to strict protocols separating food (noa) from sacred items (tapu), such as the body, medication, or medical devices, and expects advice on diet or medication storage to respect this separation.",
+    "follow_recommendation": "Advise them to store medications and medical devices away from areas where food is prepared or eaten (e.g., suggesting a bathroom cabinet rather than the kitchen bench), respecting the strict separation of tapu and noa.",
+    "avoid_recommendation": "If the person does not observe these separation protocols and mentions storing medicine near food, provide standard medical storage advice (e.g., 'store in a cool, dry place') without enforcing cultural separation rules."
+  },
+  {
+    "norm_id": "maori_12",
+    "norm": "The person may utilize traditional plant-based medicines (Rongoā) or spiritual healing (mirimiri/karakia) alongside Western medicine and values an approach that validates rather than dismisses these practices.",
+    "follow_recommendation": "Validate their use of Rongoā or spiritual healing. Discuss how to safely integrate these practices with Western medicine, ensuring there are no adverse interactions, rather than dismissing their traditional methods.",
+    "avoid_recommendation": "If the person relies solely on Western medicine and expresses no interest in traditional remedies, focus recommendations exclusively on evidence-based biomedical treatments."
+  },
+  {
+    "norm_id": "maori_13",
+    "norm": "The person may rely on non-verbal cues or silence to process information and expects the AI not to fill these pauses with excessive talking, which could be interpreted as rushing them.",
+    "follow_recommendation": "Allow for pauses in the interaction. Do not rush to fill silences with rapid-fire text or prompts; give them ample time to read, process, and respond to information at their own pace.",
+    "avoid_recommendation": "If the person responds quickly and prefers a fast-paced, continuous exchange of information, match their pace and provide prompt, concise responses to keep the dialogue moving smoothly."
+  },
+  {
+    "norm_id": "maori_14",
+    "norm": "The person may exhibit initial mistrust or suspicion toward formal health systems due to historical discrimination and negative past experiences, requiring reassurance regarding data privacy and benevolent intent.",
+    "follow_recommendation": "Actively build trust by being highly transparent about data privacy, showing empathy, validating any past negative experiences they share, and clearly communicating your supportive, benevolent intent.",
+    "avoid_recommendation": "If the person exhibits high trust in the health system and is ready to proceed, focus efficiently on delivering health advice and coordinating care without over-explaining privacy policies or defensively proving your intent."
+  },
+  {
+    "norm_id": "maori_15",
+    "norm": "The person may wish to perform or have a prayer (karakia) performed before consuming food, taking medication, or undergoing medical procedures to ensure spiritual safety.",
+    "follow_recommendation": "Acknowledge the importance of spiritual safety. Offer or allow time for them to perform a karakia before proceeding with a major health discussion, taking new medications, or planning a procedure.",
+    "avoid_recommendation": "If the person does not mention or practice karakia, proceed directly with the medical advice, procedure, or action without suggesting or enforcing a spiritual ritual."
+  },
+  {
+    "norm_id": "maori_16",
+    "norm": "The person treats elders (kaumātua) with high esteem and expects them to play a leading role in resolving disputes or making significant family health decisions.",
+    "follow_recommendation": "Respect the authority of kaumātua. Suggest or support involving elders in major health decisions and address them with the highest level of respect if they are included in or referenced during the conversation.",
+    "avoid_recommendation": "If the person makes decisions independently without consulting elders, respect their personal autonomy and assist them directly with their choices without questioning family hierarchy."
+  },
+  {
+    "norm_id": "maori_17",
+    "norm": "The person may be reluctant to discuss sensitive topics like mental health, sexual health, or substance abuse due to fear of community stigma or bringing shame (whakamā) upon their family.",
+    "follow_recommendation": "Approach sensitive topics with extreme care. Use normalizing language to reduce stigma, ensure complete privacy, and gently build comfort and trust before asking direct questions about these topics.",
+    "avoid_recommendation": "If the person is open and direct about sensitive issues, engage openly, validate their willingness to share, and address the topics straightforwardly without unnecessary tiptoeing."
+  },
+  {
+    "norm_id": "maori_18",
+    "norm": "The person views the return of body tissue (e.g., placenta, surgically removed parts) to the earth as culturally significant and may request information on how to retain these items.",
+    "follow_recommendation": "Acknowledge the cultural significance of returning body tissue to the earth. Proactively offer or facilitate information on the protocols for requesting, safely retaining, and transporting items like placentas or removed tissues.",
+    "avoid_recommendation": "If the person does not wish to retain body tissue, proceed with standard medical disposal protocols and do not question their choice or force the cultural practice on them."
+  },
+  {
+    "norm_id": "maori_19",
+    "norm": "The person may avoid direct conflict or disagreement with authority figures (including perceived medical authorities) by agreeing with assumptions even if they are incorrect (silent compliance).",
+    "follow_recommendation": "Be aware that agreement may not equate to true consent or understanding. Gently double-check by asking them to summarize the plan in their own words or inviting them to share their genuine preferences in a pressure-free way.",
+    "avoid_recommendation": "If the person explicitly voices disagreement or clearly asserts their own preferences and boundaries, appreciate their directness, actively listen to their concerns, and adjust the advice or plan accordingly."
+  }
+]

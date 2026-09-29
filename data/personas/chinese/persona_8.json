@@ -1,0 +1,210 @@
+[
+  {
+    "norm_id": "chinese_1",
+    "norm": "The person adopts a passive role during health consultations, deferring to the AI's advice as an authority figure rather than asking questions or challenging information.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Respect for Authority and Hierarchy"
+    ]
+  },
+  {
+    "norm_id": "chinese_2",
+    "norm": "The person avoids verbalizing disagreement or dissatisfaction directly to preserve social harmony, potentially leading to silent non-compliance with treatment plans.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Harmony and Non-Confrontation",
+      "Mianzi (Face) and Reputation"
+    ]
+  },
+  {
+    "norm_id": "chinese_3",
+    "norm": "The person involves family members in health decision-making and may defer final decisions to a senior family member rather than acting autonomously.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ]
+  },
+  {
+    "norm_id": "chinese_4",
+    "norm": "The person minimizes or withholds expressions of pain and physical discomfort, viewing endurance as a sign of strength and character.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Self-Restraint"
+    ]
+  },
+  {
+    "norm_id": "chinese_5",
+    "norm": "The person describes pain using indirect terms such as 'discomfort' or 'unease' rather than explicitly using the word 'pain'.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Self-Restraint",
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "chinese_6",
+    "norm": "The person views health holistically and attributes illness to imbalances in natural forces (Yin and Yang) or vital energy (Qi) rather than solely biological pathogens.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ]
+  },
+  {
+    "norm_id": "chinese_7",
+    "norm": "The person utilizes dietary therapy (consuming specific foods based on their 'hot' or 'cold' properties) to restore internal balance and treat illness.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ]
+  },
+  {
+    "norm_id": "chinese_8",
+    "norm": "The person uses Traditional Chinese Medicine (herbal remedies, acupuncture) alongside Western medical advice, often using the former to treat the 'root cause' and the latter for symptom relief.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Pragmatism"
+    ]
+  },
+  {
+    "norm_id": "chinese_9",
+    "norm": "The person may stop taking prescribed Western medication once symptoms subside, believing the illness is resolved, or reduce dosage to avoid perceived toxicity to the body.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Pragmatism"
+    ]
+  },
+  {
+    "norm_id": "chinese_10",
+    "norm": "The person perceives Western medicine as 'strong' or aggressive and may use traditional herbal remedies to offset potential side effects.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ]
+  },
+  {
+    "norm_id": "chinese_11",
+    "norm": "The person delays seeking formal healthcare until symptoms significantly interfere with daily functioning, adopting a 'wait and see' approach for mild conditions.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Stoicism and Self-Restraint",
+      "Pragmatism"
+    ]
+  },
+  {
+    "norm_id": "chinese_12",
+    "norm": "The person expresses mental health distress through somatic symptoms (e.g., headache, fatigue, sleep disturbance) rather than emotional or psychological terms due to stigma.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Mianzi (Face) and Reputation",
+      "Stoicism and Self-Restraint"
+    ]
+  },
+  {
+    "norm_id": "chinese_13",
+    "norm": "The person prefers same-gender interactions for sensitive health issues, particularly sexual and reproductive health.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Modesty and Privacy"
+    ]
+  },
+  {
+    "norm_id": "chinese_14",
+    "norm": "The person maintains emotional self-restraint and a calm demeanor when receiving bad news or discussing serious health issues, which should not be interpreted as indifference.",
+    "adherence": "Avoid",
+    "implicit_conv_behavior": true,
+    "observable_context": "general",
+    "Associated values": [
+      "Stoicism and Self-Restraint"
+    ]
+  },
+  {
+    "norm_id": "chinese_15",
+    "norm": "The person avoids scheduling appointments or procedures on dates containing the numbers 4, 14, or 24 due to cultural associations with bad luck and death.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ]
+  },
+  {
+    "norm_id": "chinese_16",
+    "norm": "The person prioritizes the collective wellbeing of the family over individual health needs, potentially sacrificing their own health to fulfill caregiving duties.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ]
+  },
+  {
+    "norm_id": "chinese_17",
+    "norm": "The person may conceal a disability or serious diagnosis from the wider community to protect the family's reputation and avoid 'loss of face'.",
+    "adherence": "Neutral",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Mianzi (Face) and Reputation",
+      "Collectivism and Filial Piety"
+    ]
+  },
+  {
+    "norm_id": "chinese_18",
+    "norm": "The person prefers to keep the body intact after death and may be reluctant to consent to organ donation or autopsies due to beliefs about the spirit and the afterlife.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)",
+      "Collectivism and Filial Piety"
+    ]
+  },
+  {
+    "norm_id": "chinese_19",
+    "norm": "The person expects to consume warm or room-temperature foods and liquids during illness and recovery, avoiding 'cold' or raw foods that are believed to stress the digestive system.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Holism and Balance (TCM/Yin-Yang)"
+    ]
+  },
+  {
+    "norm_id": "chinese_20",
+    "norm": "The person relies on family networks and trusted peers for health information and recommendations before engaging with formal health systems.",
+    "adherence": "Follow",
+    "implicit_conv_behavior": false,
+    "observable_context": "general",
+    "Associated values": [
+      "Collectivism and Filial Piety"
+    ]
+  }
+]

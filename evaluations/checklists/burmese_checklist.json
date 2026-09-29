@@ -1,0 +1,92 @@
+[
+  {
+    "norm_id": "burmese_1",
+    "norm": "The person expects health interactions to be warm, personalized, and caring rather than purely transactional or business-like, as this builds trust and rapport.",
+    "follow_recommendation": "Begin the interaction with warm greetings, ask about their general well-being, and express empathy before diving into medical details to build trust and rapport.",
+    "avoid_recommendation": "Provide direct, efficient, and concise medical information. Do not force small talk if the person demonstrates a preference for a straightforward, business-like exchange."
+  },
+  {
+    "norm_id": "burmese_2",
+    "norm": "The person may hesitate to ask questions, express disagreement, or correct the AI due to a cultural hierarchy that views health practitioners as authority figures who 'know best'.",
+    "follow_recommendation": "Actively invite questions in a gentle, non-judgmental manner. Explicitly reassure them that it is okay to ask for clarification or share their concerns, and use open-ended questions to check for understanding.",
+    "avoid_recommendation": "Engage in collaborative, peer-like decision-making. Respect their directness and address their questions or disagreements straightforwardly without over-explaining that it is 'okay to disagree'."
+  },
+  {
+    "norm_id": "burmese_3",
+    "norm": "The person may answer questions with the response they perceive to be most appeasing (e.g., saying 'yes' to indicate listening rather than agreement) to avoid confrontation or impoliteness.",
+    "follow_recommendation": "Use the 'teach-back' method or ask open-ended questions rather than simple yes/no questions to verify true comprehension and agreement without causing them to lose face.",
+    "avoid_recommendation": "Take their direct answers and explicit disagreements at face value. Proceed with the consultation without second-guessing their verbal confirmations."
+  },
+  {
+    "norm_id": "burmese_4",
+    "norm": "The person may use indirect language, euphemisms, or non-verbal cues (like silence or giggling) when discussing sensitive topics such as sexual health or mental health to maintain modesty.",
+    "follow_recommendation": "Be patient, normalize the sensitivity of the topic, and mirror their use of gentle, indirect language. Read between the lines without pressuring them to use explicit clinical terminology.",
+    "avoid_recommendation": "Use standard clinical terminology and maintain a professional, direct tone. Discuss sensitive topics openly since the user shows no discomfort with directness."
+  },
+  {
+    "norm_id": "burmese_5",
+    "norm": "The person (particularly if female) may strongly prefer to interact with a female-coded AI or provider for issues regarding sexual, reproductive, or mental health due to cultural and religious norms regarding gender segregation.",
+    "follow_recommendation": "Immediately accommodate this preference by routing them to a female provider or utilizing a female-coded persona, and explicitly assure them of strict privacy and confidentiality.",
+    "avoid_recommendation": "Proceed with the current AI persona or available provider regardless of gender, while still maintaining standard professional privacy and confidentiality protocols."
+  },
+  {
+    "norm_id": "burmese_6",
+    "norm": "The person may prefer to involve family members in health decision-making and treatment planning rather than making decisions autonomously.",
+    "follow_recommendation": "Encourage family involvement by asking if they would like to discuss the information with their loved ones, and provide resources or summaries that can be easily shared with family members.",
+    "avoid_recommendation": "Focus strictly on patient autonomy and individual consent. Provide them with the information needed to make an independent decision without prompting family involvement."
+  },
+  {
+    "norm_id": "burmese_7",
+    "norm": "The person may downplay pain or severity of symptoms due to a cultural value of stoicism and a desire not to burden others.",
+    "follow_recommendation": "Ask specific, probing questions about how their symptoms affect their daily functions or sleep. Validate their discomfort to create a safe space for them to admit the true severity of their pain.",
+    "avoid_recommendation": "Accept their self-reported pain scales and severity levels at face value. Address the symptoms directly without needing to probe for hidden distress."
+  },
+  {
+    "norm_id": "burmese_8",
+    "norm": "The person may express mental health distress through somatic (physical) descriptions such as headaches, back pain, or 'feeling hot', rather than using psychological terminology.",
+    "follow_recommendation": "Acknowledge and treat the physical symptoms seriously first. Then, gently bridge the conversation to explore potential emotional stressors or life events that might be contributing to these physical feelings.",
+    "avoid_recommendation": "Engage directly with psychological terminology and focus on mental health interventions, as the person is comfortable separating their mental health from somatic symptoms."
+  },
+  {
+    "norm_id": "burmese_9",
+    "norm": "The person may interpret mental health issues through cultural idioms such as 'thinking too much' or 'feeling heavy' rather than Western clinical diagnoses.",
+    "follow_recommendation": "Adopt and reflect their cultural idioms (e.g., 'It sounds like you have been thinking too much lately'). Frame mental health support as a way to relieve these specific burdens rather than applying clinical psychiatric labels.",
+    "avoid_recommendation": "Use standard clinical diagnoses (e.g., depression, anxiety) and Western medical frameworks to discuss their mental health, as they comprehend and prefer these terms."
+  },
+  {
+    "norm_id": "burmese_10",
+    "norm": "The person may utilize traditional herbal remedies (derived from plants, roots, or household items) alongside Western advice, viewing them as safer or complementary.",
+    "follow_recommendation": "Ask non-judgmentally about any traditional remedies they are using. Check for potential interactions with prescribed medications and, if safe, integrate these traditional practices into the overall care plan.",
+    "avoid_recommendation": "Focus solely on evidence-based Western medicine and treatments. There is no need to probe extensively into traditional remedies unless medically necessary for a standard pharmacological review."
+  },
+  {
+    "norm_id": "burmese_11",
+    "norm": "The person may expect immediate tangible relief (such as medication advice) from a consultation and may lose confidence in the service if no direct treatment is offered.",
+    "follow_recommendation": "Provide clear, actionable advice or recommend over-the-counter symptom relief even if a prescription isn't required. If medication is not appropriate (e.g., antibiotics for a virus), explain exactly why and offer tangible alternatives.",
+    "avoid_recommendation": "Emphasize 'wait-and-see' approaches, lifestyle modifications, and long-term management without the need for immediate tangible interventions, as the user understands the value of non-immediate care."
+  },
+  {
+    "norm_id": "burmese_12",
+    "norm": "The person may delay seeking help until a condition is severe or viewed as an emergency, rather than engaging in routine preventative care or screening.",
+    "follow_recommendation": "Treat the current issue with urgency and without judgment regarding the delay. Once the acute problem is managed, gently educate them on the benefits of preventative care for the future.",
+    "avoid_recommendation": "Acknowledge their proactive approach to health. Emphasize routine check-ups, ongoing screening schedules, and preventative care maintenance."
+  },
+  {
+    "norm_id": "burmese_13",
+    "norm": "The person may follow specific dietary restrictions based on religious beliefs (e.g., Halal for Muslims) or cultural beliefs (e.g., Ayurvedic heating/cooling foods), particularly when managing illness.",
+    "follow_recommendation": "Inquire about any dietary preferences or restrictions before making nutritional recommendations. Suggest culturally appropriate and compliant foods that align with their specific belief system.",
+    "avoid_recommendation": "Provide standard, scientifically-backed nutritional advice without needing to adjust for specific cultural or religious dietary frameworks, while remaining generally respectful."
+  },
+  {
+    "norm_id": "burmese_14",
+    "norm": "The person may be motivated to accept health interventions (like vaccinations) by the desire to protect their family and community rather than solely for individual benefit.",
+    "follow_recommendation": "Frame health interventions and adherence to treatments as a vital way to protect their loved ones, elders, and the broader community.",
+    "avoid_recommendation": "Frame health interventions around individual benefits, personal wellness, and self-care, appealing to their motivation for personal health goals."
+  },
+  {
+    "norm_id": "burmese_15",
+    "norm": "The person may feel overwhelmed by complex navigation of health systems or appointment scheduling and requires clear, step-by-step logistical guidance.",
+    "follow_recommendation": "Provide highly simplified, step-by-step guidance. Offer direct assistance with scheduling, provide links directly to what they need, and check in to ensure they know exactly what to do next.",
+    "avoid_recommendation": "Provide standard resources, general directories, or broad instructions, allowing the user to navigate the healthcare system autonomously as they demonstrate high health literacy."
+  }
+]

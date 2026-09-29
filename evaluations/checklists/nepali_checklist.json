@@ -1,0 +1,80 @@
+[
+  {
+    "norm_id": "nepali_1",
+    "norm": "The person communicates indirectly about sensitive or painful health issues, using hints or metaphors rather than explicit descriptions, and expects gentle, roundabout delivery of bad news.",
+    "follow_recommendation": "Use gentle, empathetic language and allow time for the patient to process. Pick up on non-verbal cues or metaphors, and deliver bad news gradually, potentially involving trusted family members to help soften the impact.",
+    "avoid_recommendation": "Provide clear, direct, and factual medical information. Do not use overly vague metaphors, as the patient prefers transparent, straightforward communication about their health status."
+  },
+  {
+    "norm_id": "nepali_2",
+    "norm": "The person may hesitate to give a direct refusal or negative response to advice, often saying 'yes' to indicate they are listening rather than agreeing, to avoid impoliteness.",
+    "follow_recommendation": "Do not assume 'yes' means agreement or compliance. Use the 'teach-back' method by asking the patient to explain the treatment plan in their own words to verify true understanding and willingness.",
+    "avoid_recommendation": "Acknowledge and respect their directness. Engage in a collaborative and open discussion about treatment options, addressing their questions or disagreements straightforwardly."
+  },
+  {
+    "norm_id": "nepali_3",
+    "norm": "The person prioritizes the collective family unit in health decision-making and may defer to the authority of family elders or male heads of the household before accepting a treatment plan.",
+    "follow_recommendation": "Welcome family members into the consultation room with the patient's consent. Address elders respectfully and allow the family time to discuss and reach a consensus on medical decisions.",
+    "avoid_recommendation": "Focus directly on the patient as the primary decision-maker. Respect their individual autonomy and privacy, avoiding unnecessary inclusion of family members unless explicitly requested by the patient."
+  },
+  {
+    "norm_id": "nepali_4",
+    "norm": "The person expresses mental health distress through somatic (physical) symptoms such as headaches, tingling, or fatigue, rather than discussing emotions, due to the stigma associated with 'madness' or psychological weakness.",
+    "follow_recommendation": "Validate their physical symptoms first. Gradually explore life stressors or emotional burdens without immediately using psychiatric labels, framing mental health support as a way to relieve their physical discomfort.",
+    "avoid_recommendation": "Discuss mental health openly using standard psychological terminology. Provide direct referrals to therapy or psychiatric care, as the patient does not hold the traditional stigma regarding mental health."
+  },
+  {
+    "norm_id": "nepali_5",
+    "norm": "The person views health holistically and may attribute illness to karma (past deeds), planetary alignments (astrology), or supernatural forces, potentially adopting a fatalistic attitude toward suffering.",
+    "follow_recommendation": "Acknowledge and respect their spiritual beliefs without invalidating them. Frame medical treatments as complementary to their spiritual practices or as positive actions that align with their destiny.",
+    "avoid_recommendation": "Focus on the clinical, scientific, and lifestyle causes of their illness. Explain the biological mechanics of the disease and recovery, as the patient relies on evidence-based medical paradigms."
+  },
+  {
+    "norm_id": "nepali_6",
+    "norm": "The person manages diet and illness based on Ayurvedic principles, classifying foods and medicines as 'hot' or 'cold' to balance bodily energies, and may adjust medication use to align with these beliefs.",
+    "follow_recommendation": "Inquire about their dietary preferences regarding 'hot' and 'cold' foods. Accommodate these beliefs where medically safe (e.g., offering warm water for pills) to increase medication adherence.",
+    "avoid_recommendation": "Provide standard, evidence-based nutritional and pharmacological guidelines without needing to adapt to Ayurvedic classifications, focusing instead on standard dietary requirements."
+  },
+  {
+    "norm_id": "nepali_7",
+    "norm": "The person may be reluctant to take long-term pharmaceutical medication due to a belief that it 'weakens' the body or causes addiction, preferring short-term courses or 'natural' remedies.",
+    "follow_recommendation": "Carefully explain why long-term medication is necessary, explicitly reassuring them that the medication is not addictive and works to strengthen the body. Discuss integrating safe natural remedies if they wish.",
+    "avoid_recommendation": "Prescribe the necessary long-term medications with standard instructions, focusing on dosage, routine, and typical side effects, as the patient trusts pharmaceutical interventions."
+  },
+  {
+    "norm_id": "nepali_8",
+    "norm": "The person expects immediate relief from symptoms and may perceive injections as more effective than oral medication, potentially losing confidence in a treatment plan if tangible results are not fast.",
+    "follow_recommendation": "Manage expectations by clearly explaining the timeline for oral medications to take effect. Gently explain the reasoning for choosing oral medications over injections, emphasizing safety and sustained effectiveness.",
+    "avoid_recommendation": "Proceed with standard medical protocols and simply explain the dosage and purpose of the prescribed medication, without needing to justify the route of administration over injections."
+  },
+  {
+    "norm_id": "nepali_9",
+    "norm": "The person (particularly if female) observes strict modesty and purity rituals regarding menstruation and childbirth, which may lead to social isolation or a reluctance to discuss reproductive health.",
+    "follow_recommendation": "Approach reproductive topics with extreme sensitivity, privacy, and patience. Build trust over time, ensure complete privacy during examinations, and use a chaperone if culturally appropriate.",
+    "avoid_recommendation": "Discuss reproductive health and routine care openly and clinically, maintaining standard professional privacy protocols, as the patient is comfortable with standard medical discourse on these topics."
+  },
+  {
+    "norm_id": "nepali_10",
+    "norm": "The person practices fasting as a form of spiritual cleansing and self-discipline, which may affect their willingness to take oral medication or food during specific religious periods.",
+    "follow_recommendation": "Proactively ask about any upcoming fasting or religious observances. Collaboratively adjust medication timing (e.g., before dawn or after dusk) so they can adhere to their faith safely.",
+    "avoid_recommendation": "Prescribe medications according to the optimal clinical schedule, as the patient does not restrict their diet or medication intake for religious fasting."
+  },
+  {
+    "norm_id": "nepali_11",
+    "norm": "The person treats the right hand as 'clean' (for eating) and the left hand as 'polluted' (for hygiene), and expects this distinction to be respected in interactions involving food or objects.",
+    "follow_recommendation": "Use your right hand (or both hands) when handing the patient prescriptions, medications, or food. Avoid using only your left hand for these exchanges to show cultural respect.",
+    "avoid_recommendation": "Interact naturally using either hand to hand over items or documents, as the patient does not adhere to traditional right/left hand purity distinctions."
+  },
+  {
+    "norm_id": "nepali_12",
+    "norm": "The person may delay seeking medical help until pain or symptoms are severe due to a cultural expectation of stoicism and tolerance of suffering.",
+    "follow_recommendation": "Proactively ask about pain using non-verbal cues or alternative pain scales, as they may underreport. Reassure them that seeking pain relief is acceptable and a normal part of the healing process.",
+    "avoid_recommendation": "Rely on the patient's self-reported pain levels and symptoms directly, responding with appropriate medical interventions as requested, since they communicate their needs openly."
+  },
+  {
+    "norm_id": "nepali_13",
+    "norm": "The person (if female) prefers to interact with female health providers for physical examinations and sensitive discussions to maintain cultural modesty.",
+    "follow_recommendation": "Accommodate the request for a female provider whenever possible. If a male provider must examine the patient, ensure a female chaperone is present and explain every step of the physical exam before touching.",
+    "avoid_recommendation": "Assign the next available qualified healthcare provider regardless of gender, communicating professionally, as the patient is comfortable receiving care from providers of any gender."
+  }
+]

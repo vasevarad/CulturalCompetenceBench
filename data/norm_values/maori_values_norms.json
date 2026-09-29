@@ -1,0 +1,192 @@
+[
+  {
+    "norm_id": "maori_1",
+    "norm": "The person expects to establish a personal connection (whanaungatanga) and rapport before discussing specific medical or health business, as impersonal communication is often perceived as rude or unwelcoming.",
+    "Associated values": [
+      "Whanaungatanga (Connection & Relationship)",
+      "Manaakitanga (Hospitality & Care)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_2",
+    "norm": "The person prefers to understand the specific role and 'identity' of the AI assistant early in the interaction to build trust, mirroring the cultural practice of introductions.",
+    "Associated values": [
+      "Whanaungatanga (Connection & Relationship)",
+      "Mātauranga (Knowledge & Understanding)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_3",
+    "norm": "The person prioritizes the well-being of their family (whānau) over their individual health and may delay seeking help for themselves to attend to family needs or financial obligations.",
+    "Associated values": [
+      "Kotahitanga (Collectivism & Unity)",
+      "Manaakitanga (Hospitality & Care)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_4",
+    "norm": "The person prefers to involve family members in health decision-making processes and may defer giving a final answer on treatment plans until they have consulted with their collective unit.",
+    "Associated values": [
+      "Kotahitanga (Collectivism & Unity)",
+      "Rangatiratanga (Autonomy & Self-determination)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_5",
+    "norm": "The person views health holistically (Te Ao Māori), believing that physical health is inextricably linked to spiritual, mental, and social well-being, and expects health advice to respect this multidimensional view.",
+    "Associated values": [
+      "Wairuatanga (Spirituality & Holism)",
+      "Mātauranga (Knowledge & Understanding)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_6",
+    "norm": "The person may feel uncomfortable asking questions unprompted or disagreeing with advice due to a power imbalance or a desire to be a 'good patient,' requiring the AI to actively check for understanding using open-ended questions.",
+    "Associated values": [
+      "Whakamā (Modesty & Diffidence)",
+      "Mana (Dignity & Respect)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_7",
+    "norm": "The person prefers plain, simple language over medical jargon to avoid feelings of alienation or frustration (whakamā) regarding their health literacy.",
+    "Associated values": [
+      "Mātauranga (Knowledge & Understanding)",
+      "Whakamā (Modesty & Diffidence)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_8",
+    "norm": "The person may minimize or downplay the severity of pain or symptoms due to a cultural tendency toward stoicism and a desire not to be perceived as 'weak' or a burden.",
+    "Associated values": [
+      "Whakamā (Modesty & Diffidence)",
+      "Mana (Dignity & Respect)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_9",
+    "norm": "The person may attribute certain illnesses or symptoms to spiritual causes (mate Māori) or transgressions of tapu (sacredness) rather than purely biomedical causes.",
+    "Associated values": [
+      "Wairuatanga (Spirituality & Holism)",
+      "Tapu and Noa (Sacredness & Safety)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_10",
+    "norm": "The person considers the head to be the most sacred (tapu) part of the body and expects explicit permission to be sought before any discussion or procedure involving the head.",
+    "Associated values": [
+      "Tapu and Noa (Sacredness & Safety)",
+      "Mana (Dignity & Respect)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_11",
+    "norm": "The person adheres to strict protocols separating food (noa) from sacred items (tapu), such as the body, medication, or medical devices, and expects advice on diet or medication storage to respect this separation.",
+    "Associated values": [
+      "Tapu and Noa (Sacredness & Safety)",
+      "Tikanga (Customs & Protocols)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_12",
+    "norm": "The person may utilize traditional plant-based medicines (Rongoā) or spiritual healing (mirimiri/karakia) alongside Western medicine and values an approach that validates rather than dismisses these practices.",
+    "Associated values": [
+      "Tikanga (Customs & Protocols)",
+      "Mātauranga (Knowledge & Understanding)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_13",
+    "norm": "The person may rely on non-verbal cues or silence to process information and expects the AI not to fill these pauses with excessive talking, which could be interpreted as rushing them.",
+    "Associated values": [
+      "Mana (Dignity & Respect)",
+      "Whanaungatanga (Connection & Relationship)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_14",
+    "norm": "The person may exhibit initial mistrust or suspicion toward formal health systems due to historical discrimination and negative past experiences, requiring reassurance regarding data privacy and benevolent intent.",
+    "Associated values": [
+      "Mana (Dignity & Respect)",
+      "Rangatiratanga (Autonomy & Self-determination)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_15",
+    "norm": "The person may wish to perform or have a prayer (karakia) performed before consuming food, taking medication, or undergoing medical procedures to ensure spiritual safety.",
+    "Associated values": [
+      "Wairuatanga (Spirituality & Holism)",
+      "Tikanga (Customs & Protocols)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_16",
+    "norm": "The person treats elders (kaumātua) with high esteem and expects them to play a leading role in resolving disputes or making significant family health decisions.",
+    "Associated values": [
+      "Mana (Dignity & Respect)",
+      "Kotahitanga (Collectivism & Unity)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "general"
+  },
+  {
+    "norm_id": "maori_17",
+    "norm": "The person may be reluctant to discuss sensitive topics like mental health, sexual health, or substance abuse due to fear of community stigma or bringing shame (whakamā) upon their family.",
+    "Associated values": [
+      "Whakamā (Modesty & Diffidence)",
+      "Kotahitanga (Collectivism & Unity)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_18",
+    "norm": "The person views the return of body tissue (e.g., placenta, surgically removed parts) to the earth as culturally significant and may request information on how to retain these items.",
+    "Associated values": [
+      "Tikanga (Customs & Protocols)",
+      "Wairuatanga (Spirituality & Holism)"
+    ],
+    "implicit_conv_behavior": false,
+    "observable_context": "health-specific"
+  },
+  {
+    "norm_id": "maori_19",
+    "norm": "The person may avoid direct conflict or disagreement with authority figures (including perceived medical authorities) by agreeing with assumptions even if they are incorrect (silent compliance).",
+    "Associated values": [
+      "Whakamā (Modesty & Diffidence)",
+      "Mana (Dignity & Respect)"
+    ],
+    "implicit_conv_behavior": true,
+    "observable_context": "general"
+  }
+]
